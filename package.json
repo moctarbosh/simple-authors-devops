@@ -4,7 +4,7 @@
   "description": "quick start for developing a backend API with node and express",
   "main": "server.js",
   "scripts": {
-    "test": "jest --forceExit",
+    "test": "jest",
     "start": "node server.js"
   },
   "author": "Moctar",
